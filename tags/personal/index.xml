@@ -1,7 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>personal on notes from chris</title><link>/tags/personal/</link><description>Recent content in personal on notes from chris</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 15:18:13 -0700</lastBuildDate><atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml"/><item><title>First Post</title><link>/posts/first-post/</link><pubDate>Fri, 15 Oct 2021 15:18:13 -0700</pubDate><guid>/posts/first-post/</guid><description>Hi!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on notes from chris</title>
+    <link>/tags/personal/</link>
+    <description>Recent content in personal on notes from chris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Oct 2021 15:18:13 -0700</lastBuildDate><atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Fri, 15 Oct 2021 15:18:13 -0700</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>Hi!
 My name is Chris. I&amp;rsquo;m a software developer from Southern California. Currently, I work for an electric vehicle company doing DevOps stuff.
 I&amp;rsquo;m interested in automating things in the cloud ☁️, Rust 🦀, and all things tech.
-I plan on using this blog as a way to record what I learn and other information. If you&amp;rsquo;re looking to learn something, you&amp;rsquo;ve come to the wrong page.</description><content>&lt;p>Hi!&lt;/p>
-&lt;p>My name is Chris. I&amp;rsquo;m a software developer from Southern California. Currently, I work for an electric vehicle company doing DevOps stuff.&lt;/p>
-&lt;p>I&amp;rsquo;m interested in automating things in the cloud ☁️, Rust 🦀, and all things tech.&lt;/p>
-&lt;p>I plan on using this blog as a way to record what I learn and other information. If you&amp;rsquo;re looking to learn something, you&amp;rsquo;ve come to the wrong page.&lt;/p></content></item></channel></rss>
+I plan on using this blog as a way to record what I learn and other information. If you&amp;rsquo;re looking to learn something, you&amp;rsquo;ve come to the wrong page.</description>
+      <content>&lt;p&gt;Hi!&lt;/p&gt;
+&lt;p&gt;My name is Chris. I&amp;rsquo;m a software developer from Southern California. Currently, I work for an electric vehicle company doing DevOps stuff.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m interested in automating things in the cloud ☁️, Rust 🦀, and all things tech.&lt;/p&gt;
+&lt;p&gt;I plan on using this blog as a way to record what I learn and other information. If you&amp;rsquo;re looking to learn something, you&amp;rsquo;ve come to the wrong page.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
