@@ -1,0 +1,89 @@
+baseURL = "chrisvo.cloud"
+title = "THOUGHTS FROM CHRIS"
+languageCode = "en"
+DefaultContentLanguage = "en" # Change this to change the site's language
+theme = "hugo.386"
+preserveTaxonomyNames = true
+
+[params]
+    # The name to display as main title in the home page
+    mainpagetitle = "Python, Go, and .NET"
+
+    # The subtitle to display under the title in the home page
+    mainpagesubtitle = "Chris Vo's Home Page" 
+
+    # The description of your website. It will be displayed in the home page
+    mainpagedesc = """Hi, welcome to my internet corner."""
+
+
+    # The name to display in the copyright section in the footer
+    copyrightname = "Chris Vo"
+
+    # The url to use as link in the copyright name in the footer. Leave empty to use none.
+    copyrighturl = "http://jmf-portfolio.netlify.com"
+
+    # Show the "built on Hugo" disclaimer
+    showhugo = true
+
+
+    # Enables or disables the loading animations. false activates them. Default is false.
+    loadfastload = true
+
+    # Sets the speed for the page loading effect. Default is 1.0.
+    loadspeedfactor = 1.0
+
+    # Enables or disables the second flyby cursor. Default is false.
+    loadonepass = false
+
+[params.copyright]
+    name = "Chris Vo"
+
+    # The url to use as link in the copyright name in the footer. Leave empty to use none.
+    url = "http://jmf-portfolio.netlify.com"
+
+    # Text to go before copyright information
+
+
+    # Text to go between copyright and hugo disclaimer (if enabled)
+
+
+[menu]
+  # This displays buttons in the navbar to access your contents
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "All posts"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = true
+    simple = true
+
+  [privacy.twitter]
+    disabled = true
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = true
+    simple = true
+
+  [privacy.youtube]
+    disabled = true
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
